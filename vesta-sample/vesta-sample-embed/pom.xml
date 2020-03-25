@@ -6,11 +6,10 @@
     <parent>
         <groupId>com.robert.vesta</groupId>
         <artifactId>vesta-sample</artifactId>
-        <version>0.0.3</version>
+        <version>0.0.4</version>
     </parent>
-    <groupId>com.robert.vesta</groupId>
     <artifactId>vesta-sample-embed</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4</version>
     <name>vesta-sample-embed</name>
     <url>http://maven.apache.org</url>
     <properties>
@@ -27,7 +26,7 @@
         <dependency>
             <groupId>com.robert.vesta</groupId>
             <artifactId>vesta-service</artifactId>
-            <version>0.0.3</version>
+            <version>0.0.4</version>
         </dependency>
     </dependencies>
 

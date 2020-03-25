@@ -6,12 +6,10 @@
     <parent>
         <groupId>com.robert.vesta</groupId>
         <artifactId>vesta-id-generator</artifactId>
-        <version>0.0.3</version>
+        <version>0.0.4</version>
     </parent>
-
-    <groupId>com.robert.vesta</groupId>
     <artifactId>vesta-server</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4</version>
     <name>vesta-server</name>
 
     <properties>
@@ -29,7 +27,7 @@
         <dependency>
             <groupId>com.robert.vesta</groupId>
             <artifactId>vesta-service</artifactId>
-            <version>0.0.3</version>
+            <version>0.0.4</version>
         </dependency>
 
         <dependency>

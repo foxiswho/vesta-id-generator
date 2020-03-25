@@ -6,13 +6,11 @@
     <parent>
         <groupId>com.robert.vesta</groupId>
         <artifactId>vesta-id-generator</artifactId>
-        <version>0.0.3</version>
+        <version>0.0.4</version>
     </parent>
 
-
-    <groupId>com.robert.vesta</groupId>
     <artifactId>vesta-sample</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4</version>
     <packaging>pom</packaging>
 
     <name>vesta-sample</name>
